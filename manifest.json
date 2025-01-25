@@ -1,8 +1,14 @@
 {
-  "id": "MessageLoggerV3",
-  "name": "Message Logger V3",
-  "version": "1.0.0",
-  "description": "A plugin to log deleted messages in DMs and server channels.",
-  "author": "Dihayeah",
-  "license": "MIT"
+  "name": "Message Logger2",
+  "description": "Temporarily logs deletions for moderation purposes",
+  "authors": [
+    {
+      "name": "dihayeah",
+      "id": "502145587165134858"
+    }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "ic_audit_log_24px"
+  }
 }
