@@ -1,0 +1,8 @@
+{
+  "id": "MessageLoggerV3",
+  "name": "Message Logger V3",
+  "version": "1.0.0",
+  "description": "A plugin to log deleted messages in DMs and server channels.",
+  "author": "Dihayeah",
+  "license": "MIT"
+}
